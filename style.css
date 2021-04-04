@@ -1,0 +1,13 @@
+.social{
+    position: sticky;
+    top: 250px;
+}
+.social img{
+    width: 50px;
+    display:    block;
+    transition: 0.4s ease-in-out;
+    border-radius: 100px;   
+}
+.social img:hover{
+    transform: translateX(14px);
+}
