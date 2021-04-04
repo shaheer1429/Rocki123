@@ -20,5 +20,5 @@ a{
 a:hover{
 	text-decoration: underline;
 	transition: 0.2s;
-	color: white;
+	color: black;
 }
