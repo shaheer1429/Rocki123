@@ -11,3 +11,14 @@
 .social img:hover{
     transform: translateX(14px);
 }
+a{
+	text-decoration: none;
+	margin-left: 100px;
+	font-weight: bold;
+	color: gray;
+}
+a:hover{
+	text-decoration: underline;
+	transition: 0.2s;
+	color: white;
+}
